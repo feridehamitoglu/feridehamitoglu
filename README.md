@@ -22,9 +22,12 @@ Component-based applications using React
 👉 You can find my projects below 👇
 
 🌍 Languages
+Turkish
 English
 Russian
 
 📫 Connect with Me
+
 💼 LinkedIn: [https://www.linkedin.com/in/feride-hamito%C4%9Flu-0a6041387](url)
+
 ✉️ Email: [feridegamidova1590@gmail.com](url)
