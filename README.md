@@ -26,5 +26,5 @@ English
 Russian
 
 📫 Connect with Me
-💼 LinkedIn: linkedin.com/in/feride-hamitoğlu-0a6041387
-✉️ Email: feridegamidova1590@gmail.com
+💼 LinkedIn: [https://www.linkedin.com/in/feride-hamito%C4%9Flu-0a6041387](url)
+✉️ Email: [feridegamidova1590@gmail.com](url)
