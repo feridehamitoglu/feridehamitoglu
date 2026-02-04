@@ -1,16 +1,30 @@
 ## Hi there 👋
 
-<!--
-**feridehamitoglu/feridehamitoglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Feride Hamitoğlu
+Junior Frontend Developer with a strong background in customer-focused and operational roles.
+Currently building responsive and user-friendly web applications using modern frontend technologies.
 
-Here are some ideas to get you started:
+🚀 About Me
+🌱 I’m currently learning and improving my skills in React and JavaScript
+💻 Passionate about building clean, responsive, and user-friendly interfaces
+🔄 Career switcher from aviation & operations to software development
+🤝 Strong communication and problem-solving skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🛠️ Tech Stack
+Frontend: HTML5, CSS3, Tailwind CSS, JavaScript (ES6+), React
+Tools: Git, GitHub, VS Code
+UI/UX: Responsive Design, Flexbox, basic CSS Grid
+
+📌 Projects
+Responsive web interfaces using HTML, CSS, and Tailwind CSS
+Interactive features built with JavaScript
+Component-based applications using React
+👉 You can find my projects below 👇
+
+🌍 Languages
+English
+Russian
+
+📫 Connect with Me
+💼 LinkedIn: linkedin.com/in/feride-hamitoğlu-0a6041387
+✉️ Email: feridegamidova1590@gmail.com
