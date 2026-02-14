@@ -1,18 +1,20 @@
-<!-- Header -->
-<h1 align="center">🌸 Hi, I'm Feride</h1>
+<!-- 🌸 Header -->
+<h1 align="center">Hi, I'm Feride 🌷</h1>
 <h3 align="center">Frontend Developer | React Enthusiast</h3>
 
 <p align="center">
-  ✨ I enjoy building modern, user-friendly and aesthetic web interfaces ✨
+  ✨ I love building clean, modern and user-friendly web interfaces ✨
 </p>
 
 ---
 
-## 🌷 About Me
-- 💻 I focus on frontend web development  
-- ⚛️ Passionate about React and modern JavaScript  
-- 🎨 I care about clean code, UI/UX and details  
-- 🌱 Always learning and improving myself  
+## 🌸 About Me
+
+- 💻 Passionate about Frontend Development  
+- ⚛️ Focused on React and modern JavaScript  
+- 🎨 Interested in UI/UX & aesthetic design  
+- 🌱 Always learning and improving  
+- 🎯 Goal: Writing clean code & creating beautiful interfaces  
 
 ---
 
@@ -21,26 +23,26 @@
 <table>
   <tr>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40"/><br/>HTML5
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/><br/>HTML5
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40"/><br/>CSS3
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/><br/>CSS3
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40"/><br/>JavaScript
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/><br/>JavaScript
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40"/><br/>React
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/><br/>React
     </td>
     <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40"/><br/>Tailwind CSS
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45"/><br/>Tailwind CSS
     </td>
   </tr>
 </table>
 
 ---
 
-## 🌸 Connect With Me
+## 🌷 Connect With Me
 
 <table>
   <tr>
@@ -62,5 +64,5 @@
 ---
 
 <p align="center">
-  🌷 Thanks for visiting my GitHub profile 🌷
+  🌸 Thanks for visiting my profile 🌸
 </p>
