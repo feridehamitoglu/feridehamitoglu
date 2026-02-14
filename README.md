@@ -6,14 +6,9 @@
 </p>
 
 <p align="center">
-  🌸 <strong>Live Portfolio:</strong> 
-  <a href="https://feridehamitoglu.github.io">feridehamitoglu.github.io</a>
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/feride-hamito%C4%9Flu-0a6041387">
     <img src="https://img.shields.io/badge/LinkedIn-Feride%20Hamitoğlu-f2cfc4?style=flat&logo=linkedin&logoColor=black" />
-  </a>
+  </a> <br>
   <a href="mailto:feridegamidova1590@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-fef4ef?style=flat&logo=gmail&logoColor=black" />
   </a>
