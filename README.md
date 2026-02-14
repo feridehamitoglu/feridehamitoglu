@@ -8,4 +8,4 @@ I'm Feride Hamitoğlu Junior Frontend Developer with a strong background in cust
 💼 LinkedIn: __https://www.linkedin.com/in/feride-hamito%C4%9Flu-0a6041387__
 ✉️ Email: __feridegamidova1590@gmail.com__
 
-bu benim read me dosyam bunu daha modern ve linklerin daha düzgün göründüğü bir şekilde düzenler misin
+
