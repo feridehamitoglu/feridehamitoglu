@@ -19,25 +19,37 @@
 ✨ Believes good code should feel as good as it looks  
 
 ---
-
 ## 🌼 Tech Stack
 
-<table>
+
+<table align="center">
   <tr>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/><br/>HTML5
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45"/><br/>
+      <sub><b>HTML5</b></sub>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/><br/>CSS3
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45"/><br/>
+      <sub><b>CSS3</b></sub>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/><br/>JavaScript
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45"/><br/>
+      <sub><b>JavaScript</b></sub>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/><br/>React
+  </tr>
+
+  <tr>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="45"/><br/>
+      <sub><b>React</b></sub>
     </td>
-    <td align="center">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45"/><br/>Tailwind CSS
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="45"/><br/>
+      <sub><b>Tailwind CSS</b></sub>
+    </td>
+    <td align="center" width="120">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45"/><br/>
+      <sub><b>Git</b></sub>
     </td>
   </tr>
 </table>
@@ -52,14 +64,7 @@
 
 ---
 
-## 🌸 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=feridehamitoglu&show_icons=true&theme=rose_pine&hide_border=true" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=feridehamitoglu&theme=rose_pine&hide_border=true" width="48%"/>
-</p>
-
----
 
 ## 🌷 Connect With Me
 
@@ -86,5 +91,4 @@
 
 <p align="center">
   🌸 Thank you for visiting my profile 🌸<br/>
-  <i>Let’s build something beautiful together ✨</i>
 </p>
