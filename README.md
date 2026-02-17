@@ -73,7 +73,7 @@
     <td>💼</td>
     <td>
       <strong>LinkedIn</strong><br/>
-      <a href="www.linkedin.com/in/feride-hamitoğlu-0a6041387" target="_blank">
+      <a href="[www.linkedin.com/in/feride-hamitoğlu-0a6041387](https://www.linkedin.com/in/feride-hamito%C4%9Flu-0a6041387/)" target="_blank">
         linkedin.com/in/feride-hamitoglu
       </a>
     </td>
